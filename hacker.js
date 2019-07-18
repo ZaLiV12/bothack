@@ -57,4 +57,4 @@ message.channel.sendMessage('**Text Channel Was Succsesfluy Created**')
 }
 });
  
-client.login("توكن البوت");
+client.login("NjAxMzk3MTE3NTUwMDY3NzUy.XTBszw.QioW3QDDScPifbIGfLCDTYnuufY");
